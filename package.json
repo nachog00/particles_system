@@ -2,6 +2,9 @@
   "name": "particles_system",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "dev" : "bun"
+  },
   "devDependencies": {
     "bun-types": "latest"
   },
